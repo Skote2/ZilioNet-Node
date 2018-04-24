@@ -1,0 +1,15 @@
+body {
+	background-color:#000;
+	color:#C00;
+	text-align:center;
+}
+
+table, td, th{
+	border:2px solid #666;
+	border-collapse:collapse;
+	padding:2px;
+}
+
+a {
+	color: #00A;
+}
